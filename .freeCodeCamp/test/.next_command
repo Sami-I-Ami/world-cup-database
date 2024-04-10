@@ -332,3 +332,4 @@ clear
 ./queries.sh
 clear
 ./queries.sh
+git add .
